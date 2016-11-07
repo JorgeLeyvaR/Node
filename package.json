@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-intro",
+  "description": "My introduction presentation to node.js along with sample code at various stages of building a simple RESTful web service with director, cradle, winston, optimist, and http-console.",
+  "version": "1.0.0-hellonode",
+  "author": "Charlie Robbins <charlie.robbins@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/indexzero/nodejs-intro.git"
+  },
+  "keywords": ["bookmarks", "webservice", "tutorial", "nodejs"],
+  "bin": { "nodejs-intro": "./bin/server" },
+  "engines": { "node": ">= 0.6.0" }
+}
